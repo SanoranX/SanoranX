@@ -21,16 +21,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JetBrains" width="26px" src="https://simpleicons.org/icons/jetbrains.svg" />
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
-
+<img align="left" alt=".NET" width="26px" src="https://simpleicons.org/icons/dotnet.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29165.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="http://simpleicons.org/icons/postgresql.svg" />
-
-<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
