@@ -9,9 +9,6 @@
 ## I am a Java and C# Developer
 
 - ⚡ Computer Science student
-- ⚡ Currently learning Docker and Vaadin
-- ⚡ I like to do stuff...
-- ⚡ Freelancer
 
 ### My socials:
 
