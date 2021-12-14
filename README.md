@@ -6,7 +6,7 @@
 
 
 
-## I am a Java and C# Developer
+## I am a Java BackEnd Developer
 
 - ⚡ Computer Science student
 
@@ -28,6 +28,7 @@
 <br />
 <br />
 
+Not interested in job offers.
 ---
 
 <details>
